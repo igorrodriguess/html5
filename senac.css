@@ -1,0 +1,87 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+body{
+	margin:0 auto;
+}
+
+header#principal{
+	width:1170px;
+	height: 250px;
+	background-color: #11FF70;
+	
+}
+
+header section#topo{
+	width: 1170px;
+	height: 30px;
+	background-color:#E71414;
+}
+
+header section#menu{
+	width: 1170px;
+	height: 30px;
+	background-color: #063A75;
+}
+
+section#todo{
+	width: 1170px;
+	height: 120px;
+	background-color: #187E8A;
+}
+
+aside#logo{
+	width: 236px;
+	background: #999;
+	height: 120px;
+	float:left;
+
+}
+aside#cursos{
+	width: 746px;
+	background-color: #888;
+	height: 120px;
+	float:right;
+}
+
+#navegacao{
+	float:left;
+}
+#conteudo{
+	float:right;
+}
+#slideshow{
+	clear: both;
+	width: 746px;
+	background-color: #693572;
+	height: 200px;
+}
+
+#noticias{
+	width: 746px;
+}
+
+#noticia1, #noticia2{
+	width: 373px;
+	height: 210px;
+}
+
+#noticia1{
+	float: left;
+	background-color: yellow;
+}
+#noticia2{
+	float: right;
+	background-color: red;
+}
+nav ul li{ 
+	float: left;
+}
+nav ul li a {
+	
+	height: 25px;
+	padding: 0 60px;
+
+}
